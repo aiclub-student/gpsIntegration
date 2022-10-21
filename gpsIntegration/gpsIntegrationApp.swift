@@ -11,7 +11,8 @@ import SwiftUI
 struct gpsIntegrationApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //GpsMapPictureView()
+            MultiTabView()
         }
     }
 }

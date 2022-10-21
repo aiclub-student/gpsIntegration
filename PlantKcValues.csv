@@ -1,0 +1,144 @@
+Plant,Kc
+Small Vegetable,1.05
+Broccoli,1.05
+Brussel Sprouts,1.05
+Cabbage,1.05
+Carrots,1.05
+Cauliflower,1.05
+Celery,1.05
+Garlic,1
+Lettuce,1
+Onions,1.05
+Dry onions,1.05
+Green onions,1
+Seed onions,1.05
+Spinach,1
+Radish,0.9
+Solanaceae,1.15
+Egg Plant,1.05
+Sweet Peppers,1.052
+Bell Peppers,1.052
+Tomato,1.152
+Cucurbitaceae,1
+Cantaloupe,0.85
+Cucumber,1.002
+Pumpkin,1
+Winter Squash,1
+Squash,0.95
+Zucchini,0.95
+Sweet Melons,1.05
+Watermelon,1
+Roots and Tubers,1.1
+Beets,1.05
+Cassava,1.1
+Parsnip,1.05
+Potato,1.15
+Sweet Potato,1.15
+Turnip,1.1
+Rutabaga,1.1
+Sugar Beet,1.2
+Legumes,1.15
+Green beans,1.052
+Dry beans,1.152
+Pulses,1.152
+Chick pea,1
+Fababean,1.152
+Grabanzo,1.15
+Green Gram,1.05
+Cowpeas,1.05
+Groundnut,1.15
+Peanut,1.15
+Lentil,1.1
+Peas,1.152
+Soybeans,1.15
+Perennial Vegetables,1
+Artichokes,1
+Asparagus,0.957
+Mint,1.15
+Strawberries,0.85
+Cotton,1.2
+Flax,1.1
+Sisal 8,0.55
+Oil Crops,1.15
+Castorbean,1.15
+Rapeseed,0.35
+Canola,0.35
+Safflower,0.25
+Sesame,1.1
+Sunflower,0.35
+Cereals,1.15
+Barley,1.15
+Oats,1.15
+Wheat,1.15
+Maize,1.2
+Field corn,1.2
+Sweet corn,1.15
+Millet,1
+Sorghum,0.55
+Sweet sorghum,1.2
+Rice,1.2
+Alfalfa Hay,0.9513
+Alfalfa Hay- individual cutting periods,1.2014
+Alfalfa Hay- for seed,0.5
+Bermuda hay,1.0013
+Bermuda hay- Spring crop for seed,0.9
+Clover hay,0.9013
+Berseem,0.9013
+Clover hay - individual cutting periods,1.1514
+Berseem- individual cutting periods,1.1514
+Rye Grass hay,1.05
+Sudan Grass hay,0.9014
+Sudan Grass hay - individual cutting periods,1.1514
+Grazing Pasture,0.85
+Grazing Pasture- Rotated Grazing,0.85
+Grazing Pasture- Extensive Grazing,0.75
+Turf grass,0.95
+Turf grass- cool season 15,0.95
+Turf grass- warm season 15,0.85
+Sugar Cane,1.25
+Banana,1.2
+Cacao,1.05
+Coffee,0.95
+Coffee- with weeds,1.1
+Date Palms,0.95
+Palm Trees,1
+Pineapple 16,0.3
+Pineapple 16- bare soil,0.3
+Pineapple 16- with grass cover,0.5
+Rubber Trees,1
+Tea,1
+Tea- non-shaded,1
+Tea- shaded 17,1.15
+Berries (bushes),1.05
+Grapes,0.85
+Grapes- Table or Raisin,0.85
+Grapes- Wine,0.7
+Hops,1.05
+Almonds,0.9
+Apples,0.95
+Cherries,0.95
+Pears,0.95
+Apples - no ground cover,0.95
+Cherries - no ground cover,0.95
+Pears - no ground cover,0.95
+Apples - killing frost,1.2
+Cherries - killing frost,1.2
+Pears - killing frost,1.2
+Apricots,0.9
+Peaches,0.9
+Stone fruit,0.9
+Apricots - no ground cover,0.9
+Peaches - no ground cover,0.9
+Stone fruit - no ground cover,0.9
+Apricots - killing frost,1.15
+Peaches - killing frost,1.15
+Stone fruit - killing frost,1.15
+Avocado,0.85
+Citrus,0.7
+Citrus - no ground cover,0.65
+Citrus with active ground cover,0.75
+Conifer Trees,1
+Kiwi,1.05
+Olives,0.7
+Pistachios,1.1
+Walnut,1.1

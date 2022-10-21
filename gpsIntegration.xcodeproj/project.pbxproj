@@ -7,18 +7,40 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AA0114B528EB8843004D837A /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA0114B428EB8843004D837A /* Extensions.swift */; };
 		AA5A581E28E8E7FE0024AC01 /* gpsIntegrationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA5A581D28E8E7FE0024AC01 /* gpsIntegrationApp.swift */; };
-		AA5A582028E8E7FE0024AC01 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA5A581F28E8E7FE0024AC01 /* ContentView.swift */; };
+		AA5A582028E8E7FE0024AC01 /* SimpleGpsOnlyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA5A581F28E8E7FE0024AC01 /* SimpleGpsOnlyView.swift */; };
 		AA5A582228E8E8000024AC01 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA5A582128E8E8000024AC01 /* Assets.xcassets */; };
 		AA5A582528E8E8000024AC01 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA5A582428E8E8000024AC01 /* Preview Assets.xcassets */; };
+		AA5A582C28E8EB840024AC01 /* MyLocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA5A582B28E8EB840024AC01 /* MyLocationManager.swift */; };
+		AA5A582E28E8EC390024AC01 /* SimpleGpsMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA5A582D28E8EC390024AC01 /* SimpleGpsMapView.swift */; };
+		AA5A583028E8F3420024AC01 /* GpsMapPictureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA5A582F28E8F3420024AC01 /* GpsMapPictureView.swift */; };
+		AA5A583228E8F5550024AC01 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA5A583128E8F5550024AC01 /* ImagePicker.swift */; };
+		AA5A583528E9EE620024AC01 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = AA5A583428E9EE620024AC01 /* Alamofire */; };
+		AA5A583828E9EE8A0024AC01 /* SwiftyJSON in Frameworks */ = {isa = PBXBuildFile; productRef = AA5A583728E9EE8A0024AC01 /* SwiftyJSON */; };
+		AADF47BB28F9C2B300B33E41 /* MultiTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AADF47BA28F9C2B300B33E41 /* MultiTabView.swift */; };
+		AADF47BD28F9C30100B33E41 /* WebViewCore.swift in Sources */ = {isa = PBXBuildFile; fileRef = AADF47BC28F9C30100B33E41 /* WebViewCore.swift */; };
+		AADF47BF28F9C3B300B33E41 /* TryETAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = AADF47BE28F9C3B300B33E41 /* TryETAPI.swift */; };
+		AADF47C328FA4FAE00B33E41 /* PlantKcValues.csv in Resources */ = {isa = PBXBuildFile; fileRef = AADF47C228FA4FAE00B33E41 /* PlantKcValues.csv */; };
+		AADF47C528FA695800B33E41 /* LoadPlantData.swift in Sources */ = {isa = PBXBuildFile; fileRef = AADF47C428FA695800B33E41 /* LoadPlantData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AA0114B428EB8843004D837A /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		AA5A581A28E8E7FE0024AC01 /* gpsIntegration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gpsIntegration.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA5A581D28E8E7FE0024AC01 /* gpsIntegrationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gpsIntegrationApp.swift; sourceTree = "<group>"; };
-		AA5A581F28E8E7FE0024AC01 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		AA5A581F28E8E7FE0024AC01 /* SimpleGpsOnlyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleGpsOnlyView.swift; sourceTree = "<group>"; };
 		AA5A582128E8E8000024AC01 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AA5A582428E8E8000024AC01 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AA5A582B28E8EB840024AC01 /* MyLocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyLocationManager.swift; sourceTree = "<group>"; };
+		AA5A582D28E8EC390024AC01 /* SimpleGpsMapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleGpsMapView.swift; sourceTree = "<group>"; };
+		AA5A582F28E8F3420024AC01 /* GpsMapPictureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GpsMapPictureView.swift; sourceTree = "<group>"; };
+		AA5A583128E8F5550024AC01 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		AADF47BA28F9C2B300B33E41 /* MultiTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiTabView.swift; sourceTree = "<group>"; };
+		AADF47BC28F9C30100B33E41 /* WebViewCore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewCore.swift; sourceTree = "<group>"; };
+		AADF47BE28F9C3B300B33E41 /* TryETAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TryETAPI.swift; sourceTree = "<group>"; };
+		AADF47C228FA4FAE00B33E41 /* PlantKcValues.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = PlantKcValues.csv; sourceTree = "<group>"; };
+		AADF47C428FA695800B33E41 /* LoadPlantData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadPlantData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +48,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA5A583828E9EE8A0024AC01 /* SwiftyJSON in Frameworks */,
+				AA5A583528E9EE620024AC01 /* Alamofire in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -35,6 +59,7 @@
 		AA5A581128E8E7FE0024AC01 = {
 			isa = PBXGroup;
 			children = (
+				AADF47C228FA4FAE00B33E41 /* PlantKcValues.csv */,
 				AA5A581C28E8E7FE0024AC01 /* gpsIntegration */,
 				AA5A581B28E8E7FE0024AC01 /* Products */,
 			);
@@ -52,7 +77,16 @@
 			isa = PBXGroup;
 			children = (
 				AA5A581D28E8E7FE0024AC01 /* gpsIntegrationApp.swift */,
-				AA5A581F28E8E7FE0024AC01 /* ContentView.swift */,
+				AADF47BA28F9C2B300B33E41 /* MultiTabView.swift */,
+				AA5A582F28E8F3420024AC01 /* GpsMapPictureView.swift */,
+				AADF47BE28F9C3B300B33E41 /* TryETAPI.swift */,
+				AADF47BC28F9C30100B33E41 /* WebViewCore.swift */,
+				AADF47C428FA695800B33E41 /* LoadPlantData.swift */,
+				AA5A583128E8F5550024AC01 /* ImagePicker.swift */,
+				AA5A582B28E8EB840024AC01 /* MyLocationManager.swift */,
+				AA0114B428EB8843004D837A /* Extensions.swift */,
+				AA5A581F28E8E7FE0024AC01 /* SimpleGpsOnlyView.swift */,
+				AA5A582D28E8EC390024AC01 /* SimpleGpsMapView.swift */,
 				AA5A582128E8E8000024AC01 /* Assets.xcassets */,
 				AA5A582328E8E8000024AC01 /* Preview Content */,
 			);
@@ -83,6 +117,10 @@
 			dependencies = (
 			);
 			name = gpsIntegration;
+			packageProductDependencies = (
+				AA5A583428E9EE620024AC01 /* Alamofire */,
+				AA5A583728E9EE8A0024AC01 /* SwiftyJSON */,
+			);
 			productName = gpsIntegration;
 			productReference = AA5A581A28E8E7FE0024AC01 /* gpsIntegration.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +149,10 @@
 				Base,
 			);
 			mainGroup = AA5A581128E8E7FE0024AC01;
+			packageReferences = (
+				AA5A583328E9EE620024AC01 /* XCRemoteSwiftPackageReference "Alamofire" */,
+				AA5A583628E9EE8A0024AC01 /* XCRemoteSwiftPackageReference "SwiftyJSON" */,
+			);
 			productRefGroup = AA5A581B28E8E7FE0024AC01 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -125,6 +167,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AADF47C328FA4FAE00B33E41 /* PlantKcValues.csv in Resources */,
 				AA5A582528E8E8000024AC01 /* Preview Assets.xcassets in Resources */,
 				AA5A582228E8E8000024AC01 /* Assets.xcassets in Resources */,
 			);
@@ -137,8 +180,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AA5A582028E8E7FE0024AC01 /* ContentView.swift in Sources */,
+				AA5A582028E8E7FE0024AC01 /* SimpleGpsOnlyView.swift in Sources */,
+				AA5A583028E8F3420024AC01 /* GpsMapPictureView.swift in Sources */,
+				AADF47BB28F9C2B300B33E41 /* MultiTabView.swift in Sources */,
+				AADF47BF28F9C3B300B33E41 /* TryETAPI.swift in Sources */,
+				AA5A582C28E8EB840024AC01 /* MyLocationManager.swift in Sources */,
+				AADF47BD28F9C30100B33E41 /* WebViewCore.swift in Sources */,
+				AADF47C528FA695800B33E41 /* LoadPlantData.swift in Sources */,
+				AA5A583228E8F5550024AC01 /* ImagePicker.swift in Sources */,
+				AA5A582E28E8EC390024AC01 /* SimpleGpsMapView.swift in Sources */,
 				AA5A581E28E8E7FE0024AC01 /* gpsIntegrationApp.swift in Sources */,
+				AA0114B528EB8843004D837A /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -339,6 +391,38 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		AA5A583328E9EE620024AC01 /* XCRemoteSwiftPackageReference "Alamofire" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Alamofire/Alamofire";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+		AA5A583628E9EE8A0024AC01 /* XCRemoteSwiftPackageReference "SwiftyJSON" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SwiftyJSON/SwiftyJSON";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		AA5A583428E9EE620024AC01 /* Alamofire */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = AA5A583328E9EE620024AC01 /* XCRemoteSwiftPackageReference "Alamofire" */;
+			productName = Alamofire;
+		};
+		AA5A583728E9EE8A0024AC01 /* SwiftyJSON */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = AA5A583628E9EE8A0024AC01 /* XCRemoteSwiftPackageReference "SwiftyJSON" */;
+			productName = SwiftyJSON;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = AA5A581228E8E7FE0024AC01 /* Project object */;
 }
